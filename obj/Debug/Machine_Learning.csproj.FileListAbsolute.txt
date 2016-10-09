@@ -1,0 +1,10 @@
+c:\users\jeffrey\documents\visual studio 2015\Projects\Neural_Network\ClassLibrary1\obj\Debug\Machine_Learning.csprojResolveAssemblyReference.cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\Neural_Network\ClassLibrary1\bin\Debug\Machine_Learning.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\Neural_Network\ClassLibrary1\bin\Debug\Machine_Learning.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\Neural_Network\ClassLibrary1\obj\Debug\Machine_Learning.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\Neural_Network\ClassLibrary1\obj\Debug\Machine_Learning.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\Machine_Learning\bin\Debug\Machine_Learning.dll
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\Machine_Learning\bin\Debug\Machine_Learning.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\Machine_Learning\obj\Debug\Machine_Learning.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\Machine_Learning\obj\Debug\Machine_Learning.dll
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\Machine_Learning\obj\Debug\Machine_Learning.pdb
